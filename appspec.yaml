@@ -7,6 +7,6 @@ Resources:
           ContainerName: TestContainer
           ContainerPort: 8081
         PlatformVersion: "1.3.0"
-        TaskDefinition: "arn:aws:ecs:us-east-1:058075715055:task-definition/TestTaskDefinition:4"
+        TaskDefinition: "arn:aws:ecs:us-east-1:058075715055:task-definition/TestTaskDefinition:6"
       Type: "AWS::ECS::Service"
 version: 1
