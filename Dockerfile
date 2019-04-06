@@ -8,4 +8,4 @@ RUN npm install
 COPY . .
 EXPOSE 8081
 
-CMD [ "npm", "start", "--", "--hostname", "0.0.0.0", "&" ]
+CMD [ "npm", "start", "--", "--hostname", "0.0.0.0" ]
