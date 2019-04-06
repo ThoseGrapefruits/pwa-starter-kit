@@ -26,5 +26,4 @@ phases:
 
 artifacts:
   files:
-    - ./appspec.yaml
-  discard-paths: no
+    - AppSpec
